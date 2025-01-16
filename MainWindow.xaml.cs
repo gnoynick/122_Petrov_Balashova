@@ -22,6 +22,7 @@ namespace Практическая_работа_1
     {
         public MainWindow()
         {
+
             InitializeComponent();
         }
     }
